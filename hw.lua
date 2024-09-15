@@ -1,4 +1,4 @@
 local hw = {
-  "hwd"
+  "hwd1"
 }
 return hw
