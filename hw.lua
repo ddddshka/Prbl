@@ -1,4 +1,3 @@
-local vkeys = {
-  'BlezzedAdminKey1231231'
-}
-return vkeys
+local function test(msg)
+    print(msg)
+end
